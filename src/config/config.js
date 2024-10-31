@@ -8,8 +8,8 @@ module.exports = {
     youtubeApiKey: process.env.YOUTUBE_API_KEY,
     mongoUri: process.env.MONGO_URI,
     spotify: {
-        clientId: process.env.SPOTIFY_CLIENT_ID,
-        clientSecret: process.env.SPOTIFY_CLIENT_SECRET,
+        clientId: "0dbeef0ee24a41f28249db9f919c97d8",
+        clientSecret: "7175432a68864d23b5287dab13bd4a61",
     },
     cookies:{
         domain: ".youtube.com",
